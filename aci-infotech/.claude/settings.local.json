@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find D:downloadsaci-infotechsrc -type f -name *.ts -o -name *.tsx -o -name *.js -o -name *.jsx)",
+      "Bash(find D:downloadsaci-infotech -name test -o -name tests -o -name __tests__ -o -name *.test.* -o -name *.spec.*)"
+    ]
+  }
+}
